@@ -1,0 +1,15 @@
+.train_list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.train_list li{
+    width: 318px;
+}
+
+.train_list li div{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}

@@ -1,0 +1,38 @@
+h2{
+    font-size: 223.5px;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+h2 span{
+    color: var(--Blue, #4A69E2);
+}
+
+.pict_cont{
+    position: relative;
+    margin-bottom: 90px;
+}
+
+.shop_now{
+    position: absolute;
+    left: 48px;
+    bottom: 48px;
+}
+
+.drops_cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.drops_text{
+    font-size: 74px;
+    font-weight: 600;
+    line-height: 95%;
+    width: 589px;
+}
+
+.drops_cont button{
+    padding-top: 92px;
+}

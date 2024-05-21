@@ -1,0 +1,148 @@
+.saving{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    margin-bottom: 8px;
+    margin-top: 32px;
+}
+
+.enjoy{
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+
+.join_us{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    opacity: 0.8;
+    margin-bottom: 32px;
+}
+
+.join_us span{
+    text-decoration: underline;
+}
+
+.bag_cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.your_bag{
+    width: 820px;
+    background-color: white;
+    border-radius: 16px;
+    padding: 24px;
+}
+
+.your_bag_text{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    margin-bottom: 8px;
+
+}
+
+.items{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    opacity: 0.8;    
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+.card_text{
+    width: 502px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.prize{
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.purp{
+    color: rgb(74, 105, 226);
+}
+
+.grey{
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    opacity: 0.8;
+    margin-top: 8px;
+}
+
+.size_quan{
+    display: flex;
+    margin-bottom: 12px;
+}
+
+.size_quan button{
+    margin-right: 40px;
+    margin-left: 24px;
+    margin-top: 9px;
+}
+
+.like{
+    display: flex;
+    margin-top: 48px;
+}
+
+.like img{
+    margin-right: 24px;
+}
+
+.summary{
+    width: 418px;
+    margin-top: 24px;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+
+.item p{
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;    
+}
+
+.total{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;    
+}
+
+.summary img{
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
+.promo{
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    text-decoration: underline;
+}

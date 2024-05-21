@@ -1,0 +1,236 @@
+.login_cont{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.log{
+    width: 544px;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: none;                              /* убирает логин */
+}
+
+.log h6{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+}
+
+.forgot{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    margin-top: 8px;
+    text-decoration-line: underline;
+}
+
+.email{
+    border: 1px solid rgb(35, 35, 33);
+    width: 480px;
+    height: 48px;
+    border-radius: 8px;
+    padding: 10px 16px 10px 16px;
+    margin-top: 24px;
+}
+
+.email::placeholder{
+    color: rgb(121, 118, 124);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.5px;
+}
+
+.password{
+    width: 436px;
+    height: 48px;
+    border: 1px solid rgb(35, 35, 33);
+    border-radius: 8px;
+    padding: 10px 16px 10px 16px;
+    margin-top: 24px;
+}
+
+.password::placeholder{
+    color: rgb(121, 118, 124);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.5px;
+}
+
+.keep_loged{
+    margin-top: 24px;
+    display: flex;
+    margin-bottom: 24px;
+    align-items: center;
+}
+
+.keep_loged input{  
+    margin-right: 13px;
+
+}
+
+.keep_loged label{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.keep_loged label p {
+    text-decoration-line: underline;
+}
+
+.social{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.click{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    width: 480px;
+}
+
+.join{
+    border-radius: 16px;
+    background: rgb(250, 250, 250);
+    width: 704px;
+    height: 516px;
+    padding: 24px 24px 24px 24px;
+}
+
+.join h2{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+    margin-bottom: 24px;
+}
+
+.kicks{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    opacity: 0.8;
+    margin-bottom: 24px;
+}
+
+.points{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    opacity: 0.8;
+    margin-top: 24px;   
+    margin-bottom: 64px;
+}
+
+.register{
+    width: 544px;
+    padding-left: 40px;
+    display: none;                             /* убирает регистрацию */
+}
+
+.register h6{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+    margin-bottom: 6px;
+}
+
+.sign_up{
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;    
+}
+
+.or{
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.bl_text{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-top: 24px;
+}
+
+.name{
+    border: 1px solid rgb(35, 35, 33);
+    border-radius: 8px;
+    padding: 10px 16px 10px 16px;
+    width: 480px;
+    height: 48px;
+    margin-top: 20px;
+}
+
+.name::placeholder{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.5px;
+}
+
+.gender{
+    display: flex;
+    margin-top: 21px;
+}
+
+.gender input{
+    margin-right: 4px;
+    background: rgb(31, 26, 36);
+    width: 18px;
+    height: 18px;
+}
+
+.gender label{
+    margin-right: 36px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.little_text{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.4px;
+    color: rgb(54, 50, 59);
+    margin-top: 4px;
+}
+
+.buttons button{
+    width: 175px;
+    height: 75px;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: Open Sans;
+}
+
+.buttons{
+    margin-left: 451px;
+}
+
+.show{
+    display: block;
+}

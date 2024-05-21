@@ -1,0 +1,20 @@
+
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-top: 32px;
+
+    font-family: Rubik;
+    color: var(--Dark-Gray, #232321);
+    background: var(--Gray, #E7E7E3);
+}
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+@import url("header.css");
+@import url("reset.css");

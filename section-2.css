@@ -1,0 +1,67 @@
+.black_cont{
+    height: 824px;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    background: var(--Dark-Gray, #232321);
+    margin-top: 128px;
+    padding-top: 60px;
+    border-radius: 25px;
+}
+
+.categ{
+    color: var(--White, #FFF);
+    font-size: 74px;
+    font-weight: 600;
+    line-height: 95%;
+    margin-left: 375px;
+}
+
+.mySwiper{
+    display: flex;
+    margin-top: 45px;
+    margin-left: 230px;
+    width: 800px;
+    height: 650px;
+    position: relative;
+
+}
+
+swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:5px solid  rgb(77, 100, 230);
+    border-radius: 55px;
+}
+
+.img {
+    display: block;
+    object-fit: cover;
+    border-radius: 55px;
+}
+
+.but_1{
+    position: absolute;
+    left: 633px;
+    top: 543px;
+    width: 20px;
+    height: 30px;
+}
+
+swiper-slide p{
+    position: absolute;
+    font-weight: 600;
+    font-size: 42px;
+    left: 105px;
+    bottom: 60px;
+}
